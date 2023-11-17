@@ -1,0 +1,89 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Landing Page with Design</title>
+    
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to my Landing Page!</h1>
+        <nav>
+            <button type="submit">Settings</button>
+            <button type="submit">About</button>
+            <button type="submit">Contact</button>
+        </nav>
+       
+
+    </div>
+    <h5> Here are some of my contents in this landing page.
+        
+    </h5>
+    <img src="c:\Users\sethn\Downloads\caitlyn.jfif" alt="">
+    <h2>Caitlyn</h2>
+
+    <h3> Caitlyn is one the best heroes of the league of legends and this is one of her skin, a pool  party skin.</h3>
+
+    <h4>Adding more soon!</h4>
+
+    <div class="container">
+        
+    </div>
+    <div class="footer">
+        <p>Message me at sethnimrodatulio@gmail.com</p>
+  
+    </div>
+<style>
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+      
+}
+.content {
+    margin-bottom: 2rem;
+   
+}
+.header {
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 2rem;
+}
+.header h1 {
+    margin: 0;
+}
+.footer {
+    width: 100%;
+    background-color: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 1rem 0;
+    
+}
+ button {
+   color: rgb(25, 27, 27);
+   
+
+
+}
+
+</style
+    
+</body>
+</html>
